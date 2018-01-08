@@ -9,6 +9,7 @@
   "author": "Vuexy",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.2.1"
+    "discord.js": "^11.2.1",
+    "weather-js": "^2.0.0"
   }
 }
